@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our Kittiewampus's slide!"
 ---
-Meow meow mix please deliver
+This is my meow mix slide
 Use the left arrow to go back!
